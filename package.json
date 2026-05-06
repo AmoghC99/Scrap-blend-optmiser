@@ -1,0 +1,19 @@
+{
+  "name": "scrap-blend-optimiser-dashboard",
+  "version": "1.0.0",
+  "description": "Real-time dashboard for Scrap Blend Optimiser - displays JSON output from optimiser_v3.py",
+  "main": "index.html",
+  "scripts": {
+    "serve": "npx http-server",
+    "deploy": "netlify deploy --prod"
+  },
+  "keywords": [
+    "scrap",
+    "blend",
+    "optimiser",
+    "dashboard",
+    "netlify"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
